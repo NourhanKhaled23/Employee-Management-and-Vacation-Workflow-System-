@@ -1,0 +1,24 @@
+# 🏢 Employee Management & Vacation Workflow System
+
+## 📌 Overview
+This project is an Employee Management System with a Vacation Request Workflow. It allows
+- Employees to view their information and submit vacation requests.
+- Managers to approve or decline vacation requests.
+- Admins to manage employees, departments, and positions.
+
+## 🚀 Features
+✅ View Employee Information  
+✅ Submit Vacation Requests  
+✅ ApproveDecline Requests  
+✅ Manage Departments & Positions  
+✅ Secure API Authentication  
+
+## 🛠 Technologies Used
+- .NET 7  ASP.NET Core (Backend Framework)
+- Entity Framework Core (Database ORM)
+- SQL Server (Database)
+- Swagger (API Documentation)
+- xUnit  Moq (Unit Testing)
+
+## 🏛️ Architecture
+This project follows Clean Architecture

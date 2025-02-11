@@ -1,0 +1,12 @@
+C:\SeniorYear\.Net\C#_tasks\CS_Projects\Employee_Management_Vacation_System\BackendFirstProject.Core\bin\Debug\net8.0\BackendFirstProject.Core.deps.json
+C:\SeniorYear\.Net\C#_tasks\CS_Projects\Employee_Management_Vacation_System\BackendFirstProject.Core\bin\Debug\net8.0\BackendFirstProject.Core.dll
+C:\SeniorYear\.Net\C#_tasks\CS_Projects\Employee_Management_Vacation_System\BackendFirstProject.Core\bin\Debug\net8.0\BackendFirstProject.Core.pdb
+C:\SeniorYear\.Net\C#_tasks\CS_Projects\Employee_Management_Vacation_System\BackendFirstProject.Core\obj\Debug\net8.0\BackendFirstProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\SeniorYear\.Net\C#_tasks\CS_Projects\Employee_Management_Vacation_System\BackendFirstProject.Core\obj\Debug\net8.0\BackendFirstProject.Core.AssemblyInfoInputs.cache
+C:\SeniorYear\.Net\C#_tasks\CS_Projects\Employee_Management_Vacation_System\BackendFirstProject.Core\obj\Debug\net8.0\BackendFirstProject.Core.AssemblyInfo.cs
+C:\SeniorYear\.Net\C#_tasks\CS_Projects\Employee_Management_Vacation_System\BackendFirstProject.Core\obj\Debug\net8.0\BackendFirstProject.Core.csproj.CoreCompileInputs.cache
+C:\SeniorYear\.Net\C#_tasks\CS_Projects\Employee_Management_Vacation_System\BackendFirstProject.Core\obj\Debug\net8.0\BackendFirstProject.Core.sourcelink.json
+C:\SeniorYear\.Net\C#_tasks\CS_Projects\Employee_Management_Vacation_System\BackendFirstProject.Core\obj\Debug\net8.0\BackendFirstProject.Core.dll
+C:\SeniorYear\.Net\C#_tasks\CS_Projects\Employee_Management_Vacation_System\BackendFirstProject.Core\obj\Debug\net8.0\refint\BackendFirstProject.Core.dll
+C:\SeniorYear\.Net\C#_tasks\CS_Projects\Employee_Management_Vacation_System\BackendFirstProject.Core\obj\Debug\net8.0\BackendFirstProject.Core.pdb
+C:\SeniorYear\.Net\C#_tasks\CS_Projects\Employee_Management_Vacation_System\BackendFirstProject.Core\obj\Debug\net8.0\ref\BackendFirstProject.Core.dll
