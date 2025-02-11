@@ -1,7 +1,5 @@
-#👨‍💻 Employee Management and Vacation Workflow System
+## **👨‍💻 Employee Management and Vacation Workflow System**
 ## **📄 Project Documentation**
-
-### **1. 🏁 Project Overview**
 #### **1.1 🎯 Purpose**
 The **Employee Management and Vacation Workflow System** is designed to manage employee information and handle vacation requests within a company. It allows employees to submit vacation requests, managers to approve or decline requests, and HR to track employee vacation balances.
 
